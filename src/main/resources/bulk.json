@@ -1,0 +1,2 @@
+{"create": {"_index": "jlog","_id": "${id}"}}
+{"id": "${id}","line": "${line}","clz": "${clz}","method": "${method}","file": "${file}","message": "${message}","path":"${path}","host":"${host}","servicename":"${servicename}"}
